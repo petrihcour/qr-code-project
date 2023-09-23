@@ -8,7 +8,6 @@ img {
 
 body {
     background-color: #d6e2f0;
-    border: green 1px solid;
     margin: 0;
     display: flex;
     flex-direction: column;
